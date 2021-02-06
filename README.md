@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 
 <!--
 **arunrathi9/arunrathi9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,10 +19,11 @@ Here are some ideas to get you started:
 </p>
  
 ## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=chandrikadeb7 alt=chandrikadeb7/></p>
+<!--
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=arunrathi9 alt=arunrathi9/></p>
+-->
 
-
-### Wanna stalk my website:question::point_right: [Click Here](https://chandrikadeb7.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://arunrathi9.github.io/):sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "🔭 Hello, I'm a Software Engineer at [Agilitix AI](https://agilitix.ai/)"</code>
