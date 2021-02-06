@@ -67,11 +67,11 @@ Here are some ideas to get you started:
 <code>git commit -m "Machine Learning, Deep Learning and Math!"</code> :grin:
 
 ### How to connect with me:question::email:
-:star: <code>[Mail](mailto:arunrathi@gmail.com)</code>    
+:star: <code>[Mail](mailto:arunrathi@gmail.com)</code>   
+:star: <code>[Medium](https://medium.com/@chandrikadeb7)</code>     
+:star: <code>[Kaggle](https://www.kaggle.com/arunrathi)</code>      
 :star: <code>[Twitter](https://twitter.com/chandrikadeb7)</code>  
 :star: <code>[LinkedIn](https://www.linkedin.com/in/arun-rathi-999478128/)</code>  
-:star: <code>[Medium](https://medium.com/@chandrikadeb7)</code> <br>
-:star: <code>[Kaggle](https://www.kaggle.com/arunrathi)</code> <br>
 :star: <code>[LeetCode](https://leetcode.com/arunrathi201/)</code> <br>
 :star: <code>[HackerRank](https://www.hackerrank.com/arunrathi201)</code>
 
