@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 :star: <code>[Mail](mailto:arunrathi@gmail.com)</code>    
 :star: <code>[Twitter](https://twitter.com/chandrikadeb7)</code>  
 :star: <code>[LinkedIn](https://www.linkedin.com/in/arun-rathi-999478128/)</code>  
-:star: <code>[Medium](https://medium.com/@chandrikadeb7)</code> 
-:star: <code>[Kaggle](https://www.kaggle.com/arunrathi)</code> 
+:star: <code>[Medium](https://medium.com/@chandrikadeb7)</code>
+:star: <code>[Kaggle](https://www.kaggle.com/arunrathi)</code>
 :star: <code>[LeetCode](https://leetcode.com/arunrathi201/)</code>
 :star: <code>[HackerRank](https://www.hackerrank.com/arunrathi201)</code>
 
