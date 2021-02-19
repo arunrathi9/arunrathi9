@@ -28,6 +28,13 @@ Here are some ideas to get you started:
 ### Who am I:question: 
 <code>git commit -m "🔭 Hello, I'm a Software Engineer at [Agilitix AI](https://agilitix.ai/)"</code>
 
+### My HackerRank Profile::point_right: [Click here](https://www.hackerrank.com/arunrathi201):sparkles:
+
+:eyes:  Python :star::star::star::star::star:<br>
+:eyes:  SQL &nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star::star:<br>
+:eyes:  JAVA &nbsp;&nbsp;&nbsp;  :star:<br>
+:eyes:  C++  &nbsp;&nbsp;&nbsp;  :star:<br>
+
 <!--
 ### Where did I work earlier:question::woman_technologist:
 <code>* [The Sparks Foundation](https://www.thesparksfoundationsingapore.org/) [Content Development Intern]</code>    
