@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ### Wanna stalk my website:question::point_right: [Click Here](https://arunrathi9.github.io/):sparkles:
 
 ### Who am I:question: 
-<code>git commit -m "🔭 Hello, I'm a Software Engineer at [Agilitix AI](https://agilitix.ai/)"</code>
+<code>git commit -m "🔭 Hello, I'm Arun. I did my masters from NIT Kurukshetra. Currently, I learning about data science."</code>
 
 ### My HackerRank Profile::point_right: [Click here](https://www.hackerrank.com/arunrathi201):sparkles:
 
