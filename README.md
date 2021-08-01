@@ -18,12 +18,12 @@ Here are some ideas to get you started:
   <img src="https://github.com/chandrikadeb7/chandrikadeb7/blob/master/readme.gif">
 </p>
  
-## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## :rainbow: Hey Profile Visitor :eyes:<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" >
 <!--
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=arunrathi9 alt=arunrathi9/></p>
 -->
 
-### Wanna stalk my website:question::point_right: [Click Here](https://arunrathi9.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://arunrathi9.github.io/):sparkles:<a href="https://arunrathi9.github.io/" target="_blank">click here</a>
 
 ### Who am I:question: 
 <code>git commit -m "🔭 Hello, I'm Arun. I did my masters from NIT Kurukshetra. Currently, I learning about data science."</code>
