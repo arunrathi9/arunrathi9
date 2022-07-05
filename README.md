@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### Who am I:question: 
 <code>git commit -m "🔭 Hello, I'm Arun. I did my masters from NIT Kurukshetra. Currently, I learning about data science."</code>
 
-### My HackerRank Profile::point_right: [Click here](https://www.hackerrank.com/arunrathi201){:target="\_blank"}:sparkles:
+### My HackerRank Profile::point_right: [Click here](https://www.hackerrank.com/arunrathi201):sparkles:
 
 :eyes:  Python :star::star::star::star::star:<br>
 :eyes:  SQL &nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star::star:<br>
