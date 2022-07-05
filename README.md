@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=arunrathi9 alt=arunrathi9/></p>
 -->
 
-### Wanna stalk my website:question::point_right: [Click Here](https://arunrathi9.github.io/){:target="\_blank"}:sparkles:
+### Wanna stalk my website:question::point_right: <a href="https://arunrathi9.github.io/" target="_blank"><b>Click Here</b></a>:sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "🔭 Hello, I'm Arun. I did my masters from NIT Kurukshetra. Currently, I learning about data science."</code>
