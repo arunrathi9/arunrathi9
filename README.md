@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=arunrathi9 alt=arunrathi9/></p>
 -->
 
-### Wanna stalk my website:question::point_right: [Click Here](https://arunrathi9.github.io/):sparkles:
+### Wanna stalk my website:question::point_right: [Click Here](https://arunrathi9.github.io/){:target="\_blank"}:sparkles:
 
 ### Who am I:question: 
 <code>git commit -m "🔭 Hello, I'm Arun. I did my masters from NIT Kurukshetra. Currently, I learning about data science."</code>
 
-### My HackerRank Profile::point_right: [Click here](https://www.hackerrank.com/arunrathi201):sparkles:
+### My HackerRank Profile::point_right: [Click here](https://www.hackerrank.com/arunrathi201){:target="\_blank"}:sparkles:
 
 :eyes:  Python :star::star::star::star::star:<br>
 :eyes:  SQL &nbsp;&nbsp;&nbsp;&nbsp;   :star::star::star::star:<br>
